@@ -353,6 +353,17 @@ chip</description>
 <text x="-60.96" y="25.4" size="1.778" layer="125">Name</text>
 <text x="-60.96" y="5.08" size="1.778" layer="127">Value</text>
 </symbol>
+<symbol name="BUTTON">
+<wire x1="-48.26" y1="15.24" x2="-53.34" y2="15.24" width="0.254" layer="94"/>
+<wire x1="-53.34" y1="15.24" x2="-58.42" y2="15.24" width="0.254" layer="94"/>
+<wire x1="-58.42" y1="0" x2="-53.34" y2="0" width="0.254" layer="94"/>
+<wire x1="-53.34" y1="0" x2="-48.26" y2="0" width="0.254" layer="94"/>
+<wire x1="-53.34" y1="15.24" x2="-53.34" y2="10.16" width="0.254" layer="94"/>
+<wire x1="-53.34" y1="0" x2="-53.34" y2="5.08" width="0.254" layer="94"/>
+<wire x1="-53.34" y1="5.08" x2="-50.8" y2="10.16" width="0.254" layer="94"/>
+<text x="-45.72" y="15.24" size="1.778" layer="125">Name</text>
+<text x="-45.72" y="0" size="1.778" layer="127">Value</text>
+</symbol>
 </symbols>
 <devicesets>
 <deviceset name="MPU_9250" prefix="U" uservalue="yes">
